@@ -1,12 +1,5 @@
+# <div align="center"> **RENDERS**
 
-<img align="right" width="520em" src="https://github.com/smrnjeet222/BLENDER/blob/master/Donut/cup_Donut.png">
-
-<img align="left" width="300em" src="https://github.com/smrnjeet222/BLENDER/blob/master/Donut/Donut_Coffee.png">
-
-<img align="right" width="450em" src="https://github.com/smrnjeet222/BLENDER/blob/master/Anvil/Anvil_render.png">
-
-<img align="left" width="450em" src="https://github.com/smrnjeet222/BLENDER/blob/master/Sunset/Still.jpg">
-
-<img align="center" width="450em" src="https://github.com/smrnjeet222/BLENDER/blob/master/Abstract_Design/Abstract.png">
-
-
+|[Absract Design <img width="1604" alt="Absract Design" src="https://github.com/smrnjeet222/BLENDER/blob/master/Abstract_Design/Abstract.png">](https://github.com/smrnjeet222/BLENDER/tree/master/Abstract_Design)| [Donut & Coffee <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/smrnjeet222/BLENDER/blob/master/Donut/Donut_Coffee.png">](https://github.com/smrnjeet222/BLENDER/tree/master/Donut)|
+|:---------------------------------:|:--------------------------------------------------:|
+|[<b>Sunset</b> <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/smrnjeet222/BLENDER/blob/master/Sunset/Still.jpg">](https://github.com/smrnjeet222/BLENDER/tree/master/Sunset)| [<b>Anvil</b> <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/smrnjeet222/BLENDER/blob/master/Anvil/Anvil_render.png">](https://github.com/smrnjeet222/BLENDER/tree/master/Anvil)|
